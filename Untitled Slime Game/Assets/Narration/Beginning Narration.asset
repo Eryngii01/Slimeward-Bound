@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81441cc53c691c948b1ac1c61743e7fb, type: 3}
+  m_Name: Beginning Narration
+  m_EditorClassIdentifier: 
+  narrationInfo:
+  - text: There once was a slime named Slime Jr. He lived happily in his little container
+      home.
+    illustration: {fileID: 21300000, guid: 7ab1a24527aff0847aca19f86b2f1176, type: 3}
+  - text: Until...
+    illustration: {fileID: 21300000, guid: 429806a5444e01547a1b094d8e9b0236, type: 3}
+  - text: One day, John took Slime Jr. out of his container to play.
+    illustration: {fileID: 21300000, guid: 289c9f66fa2f3224686d1507413317d9, type: 3}
+  - text: But he was called to dinner, and quickly forgot about his slime buddy.
+    illustration: {fileID: 21300000, guid: 5bb624562dad64f4e9918af741b9aa1e, type: 3}
+  - text: Over time, Slime Jr. began to dry out.
+    illustration: {fileID: 21300000, guid: 9bda550e29f2f354c87d17721ce7e502, type: 3}
+  - text: Neglected and forgotten, Slime Jr. was accidentally kicked by John's mother.
+    illustration: {fileID: 21300000, guid: 519ebf85b85f88e4da201e410ef6057e, type: 3}
+  - text: And he tumbled down the stairs to a dusty corner in the kitchen!
+    illustration: {fileID: 21300000, guid: 952817cf181db3a4797341f1f3d21465, type: 3}
+  - text: Determined to get back to his home, Slime Jr. sets off on a journey...
+    illustration: {fileID: 21300000, guid: 232ddfcfb65818d45858379500dc0f9c, type: 3}
